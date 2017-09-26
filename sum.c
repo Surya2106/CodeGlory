@@ -11,8 +11,8 @@ int main()
         sum += i;   // sum = sum+i;
     }
 
-    printf("Sum = %d",sum);
-
+    printf("Sum = %d\n",sum);
+    printf("program ended");
     return 0;
 }
 
